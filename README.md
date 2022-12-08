@@ -10,13 +10,11 @@ TODO: one-line summary for paper with code
 * MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation [[pdf](https://arxiv.org/abs/2209.11047)] [[code pending](https://github.com/KU-CVLAB/MIDMs)]
 
 ## NeurIPS 2022
-
 * EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations [[pdf](https://arxiv.org/abs/2207.06635)] [[code](https://github.com/ML-GSAI/EGSDE)]
 
 * Unsupervised Image-to-Image Translation with Density Changing Regularization [[pdf](https://arxiv.org/abs/2204.03641)] [[code](https://github.com/Mid-Push/Decent)]
 
 ## ECCV 2022
-
 * Multi-Curve Translator for High-Resolution Photorealistic Image Translation [[pdf](https://arxiv.org/abs/2203.07756)] [[code](https://github.com/IDKiro/MCT)]
 
 * ManiFest: Manifold Deformation for Few-shot Image Translation [[pdf](https://arxiv.org/abs/2111.13681)] [[code](https://github.com/astra-vision/ManiFest)]
@@ -30,7 +28,6 @@ TODO: one-line summary for paper with code
 * Bi-level Feature Alignment for Versatile Image Translation and Manipulation [[pdf](https://arxiv.org/abs/2107.03021)] [[code](https://github.com/fnzhan/RABIT)]
 
 ## CVPR 2022
-
 * Exploring Patch-Wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Jung_Exploring_Patch-Wise_Semantic_Relation_for_Contrastive_Learning_in_Image-to-Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/jcy132/Hneg_SRC)]
 
 * Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.html)] [[code](https://github.com/cr-gjx/scc)]
@@ -52,18 +49,26 @@ TODO: one-line summary for paper with code
 * QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_QS-Attn_Query-Selected_Attention_for_Contrastive_Learning_in_I2I_Translation_CVPR_2022_paper.html)] [[code](https://github.com/sapphire497/query-selected-attention)]
  
 ## AAAI 2022
-
 * OA-FSUI2IT: A Novel Few-Shot Cross Domain Object Detection Framework with Object-Aware Few-Shot Unsupervised Image-to-Image Translation [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20253)] [**NO CODE**]
 * Style-Guided and Disentangled Representation for Robust Image-to-Image Translation [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/19924)] [**NO CODE**]
 
 # Surveys
-* TODO
+
+TODO: summarize future works
+
+* Image-to-image translation: Methods and applications. 2021 [[pdf](https://arxiv.org/abs/2101.08629)]
+
+* Deep Generative Adversarial Networks for Image-to-Image Translation: A Review paper. 2020 [[pdf](https://www.mdpi.com/2073-8994/12/10/1705)] 
+
+* An Overview of Image-to-Image Translation Using Generative Adversarial Networks [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-68780-9_31)] 
 
 # Datasets
 * TODO
 
 # Metrics
-* TODO
+* PSNR
+
+* SSIM
 
 # Resources
 * [awesome-image-translation](https://github.com/weihaox/awesome-image-translation)
