@@ -54,21 +54,65 @@ TODO: one-line summary for paper with code
 
 # Surveys
 
-TODO: summarize future works
-
 * Image-to-image translation: Methods and applications. 2021 [[pdf](https://arxiv.org/abs/2101.08629)]
+  * lightweight network design for better efficiency
+  * generalize to cross-modality tasks (e.g., NLP, speech)
 
 * Deep Generative Adversarial Networks for Image-to-Image Translation: A Review paper. 2020 [[pdf](https://www.mdpi.com/2073-8994/12/10/1705)] 
+  * Solve mode collapse
+  * More realistic evaluation metrics
+  * More image diversity
+  * Deep Reinforcement Learning
+  * 3D image-to-image translation
+  * 3D datasets
+  * Cybersecurity applications 
 
 * An Overview of Image-to-Image Translation Using Generative Adversarial Networks [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-68780-9_31)] 
+  * Combine GAN with other methods (e.g., VAE) to stabilize training
+  * GAN compression for lightweight design
+  * Transfer other methods (e.g., SR, Attention, OT) to I2IT
+  * Remove unnecessary components
+  * Extend to video
 
 # Datasets
-* TODO
+* CelebA
+
+* RaFD
+
+* CMP Facades
+
+* Facescrub
+
+* Cityscapes
+
+* Helen Face
+
+* CartoonSet
+
+* ImageNet
+
+* UT-Zap50K
 
 # Metrics
+* AMT
+
 * PSNR
 
 * SSIM
+
+* IS
+
+* FID
+
+* KID
+
+* PD
+
+* FCN
+
+* LPIPS
+
+* DC
 
 # Resources
 * [awesome-image-translation](https://github.com/weihaox/awesome-image-translation)
