@@ -7,7 +7,7 @@ TODO: one-line summary for paper with code
 # Papers
 
 ## AAAI 2023
-* MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation [[pdf](https://arxiv.org/abs/2209.11047)] [[code](https://github.com/KU-CVLAB/MIDMs)]
+* MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation [[pdf](https://arxiv.org/abs/2209.11047)] [[code pending](https://github.com/KU-CVLAB/MIDMs)]
 
 ## NeurIPS 2022
 
