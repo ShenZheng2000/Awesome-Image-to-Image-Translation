@@ -1,8 +1,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Format: * paper [[pdf]()] [[code]()]
-
-TODO: one-line summary for paper with code
+This is an repository that contains the resources for image-to-image translation (I2I) research. 
 
 # Papers
 
