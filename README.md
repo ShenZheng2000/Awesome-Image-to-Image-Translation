@@ -93,7 +93,20 @@ This is an repository that contains the resources for image-to-image translation
   * Transfer other methods (e.g., SR, Attention, OT) to I2IT
   * Remove unnecessary components
   * Extend to video
+  
+* Unsupervised Image-to-Image Translation: A Review [[pdf](https://www.mdpi.com/1424-8220/22/21/8540)] 
 
+* Applications of I2I to rainy days
+  * Domain Bridge for Unpaired Image-to-Image Translation and Unsupervised Domain Adaptation [[pdf](https://openaccess.thecvf.com/content_WACV_2020/papers/Pizzati_Domain_Bridge_for_Unpaired_Image-to-Image_Translation_and_Unsupervised_Domain_Adaptation_WACV_2020_paper.pdf)]
+  
+  * Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_Closing_the_Loop_Joint_Rain_Generation_and_Removal_via_Disentangled_CVPR_2021_paper.pdf)]
+  
+  * From Rain Generation to Rain Removal [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Rain_Generation_to_Rain_Removal_CVPR_2021_paper.pdf)]
+  
+  * DerainCycleGAN: Rain Attentive CycleGAN for Single Image Deraining and Rainmaking [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9420312&casa_token=U2REa5Ff6vgAAAAA:9wrW8ZZKIYeeJdGlHzARzdpSRq_B0lbQVQ350rXic-4hpSWOgrJSloRdgoq7OT3lzG-k5BXk)]
+  
+  * Close the Loop: A Unified Bottom-up and Top-down Paradigm for Joint Image Deraining and Segmentation [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20033)]
+  
 # Datasets
 * [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
