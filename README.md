@@ -97,44 +97,46 @@ TODO: one-line summary for paper with code
   * Extend to video
 
 # Datasets
-* CelebA
+* [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
-* RaFD
+* [RaFD](http://www.rafd.nl/)
 
-* CMP Facades
+* [CMP Facades](https://cmp.felk.cvut.cz/~tylecr1/facade/)
 
-* Facescrub
+* [Facescrub](http://vintage.winklerbros.net/facescrub.html)
 
-* Cityscapes
+* [Cityscapes](https://www.cityscapes-dataset.com/)
 
-* Helen Face
+* [Helen Face](http://www.ifp.illinois.edu/~vuongle2/helen/)
 
-* CartoonSet
+* [CartoonSet](https://google.github.io/cartoonset/)
 
-* ImageNet
+* [ImageNet](https://www.image-net.org/)
 
-* UT-Zap50K
+* [UT-Zap50K](https://vision.cs.utexas.edu/projects/finegrained/utzap50k/)
 
 # Metrics
-* AMT
+* Amazon Mechanical Turk (AMT)
 
-* PSNR
+* Peak Signal-to-Noise Ratio (PSNR) ↑
 
-* SSIM
+* Structural Similarity Index Measure (SSIM) ↑
 
-* IS
+* Inception Score (IS) ↑
 
-* FID
+* Fréchet Inception Distance (FID) ↓
 
-* KID
+* Kernel Inception Distance (KID) ↓
 
-* PD
+* Perceptual Distance (PD) ↓
 
-* FCN
+* Learned Perceptual Image Patch Similarity (LPIPS) ↓ 
 
-* LPIPS
+* FCN ↑
 
-* DC
+* Density and Coverage (DC) ↑
 
 # Resources
 * [awesome-image-translation](https://github.com/weihaox/awesome-image-translation)
+
+* [awesome-image-synthesis](https://github.com/Victarry/awesome-image-synthesis)
