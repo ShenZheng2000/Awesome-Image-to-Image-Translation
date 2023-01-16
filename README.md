@@ -4,6 +4,13 @@ This is an repository that contains the resources for image-to-image translation
 
 # Papers
 
+## ICLR 2023 (Under Review)
+* Multi-domain image generation and translation with identifiability guarantees [[OpenReview](Multi-domain image generation and translation with identifiability guarantees)] 
+  
+* Diffusion-based Image Translation using disentangled style and content representation [[OpenReview](https://openreview.net/forum?id=Nayau9fwXU)]
+  
+* Dual Diffusion Implicit Bridges for Image-to-Image Translation [[OpenReview](https://openreview.net/forum?id=Nayau9fwXU)]
+
 ## AAAI 2023
 * MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation [[pdf](https://arxiv.org/abs/2209.11047)] [[code pending](https://github.com/KU-CVLAB/MIDMs)]
   * a diffusion-based matching-and-generation framework that interleaves cross-domain matching and diffusion in the latent space for I2I
