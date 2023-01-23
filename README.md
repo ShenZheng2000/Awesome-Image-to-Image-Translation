@@ -4,8 +4,14 @@ This is an repository that contains the resources for image-to-image translation
 
 # Papers
 
+## WACV 2023
+* Panoptic-aware Image-to-Image Translation [[pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_Panoptic-Aware_Image-to-Image_Translation_WACV_2023_paper.pdf)]
+
+* UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation [[pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Torbunov_UVCGAN_UNet_Vision_Transformer_Cycle-Consistent_GAN_for_Unpaired_Image-to-Image_Translation_WACV_2023_paper.pdf)]
+
+
 ## ICLR 2023 (Under Review)
-* Multi-domain image generation and translation with identifiability guarantees [[OpenReview](Multi-domain image generation and translation with identifiability guarantees)] 
+* Multi-domain image generation and translation with identifiability guarantees [[OpenReview](https://openreview.net/forum?id=U2g8OGONA_V)] 
   
 * Diffusion-based Image Translation using disentangled style and content representation [[OpenReview](https://openreview.net/forum?id=Nayau9fwXU)]
   
