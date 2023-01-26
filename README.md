@@ -10,22 +10,22 @@ This is an repository that contains the resources for image-to-image translation
 * UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation [[pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Torbunov_UVCGAN_UNet_Vision_Transformer_Cycle-Consistent_GAN_for_Unpaired_Image-to-Image_Translation_WACV_2023_paper.pdf)] [[PyTorch](https://github.com/ls4gan/uvcgan)]
 
 
-## ICLR 2023 (Under Review)
-* Multi-domain image generation and translation with identifiability guarantees [[OpenReview](https://openreview.net/forum?id=U2g8OGONA_V)] 
+## ICLR 2023 
+* Multi-domain image generation and translation with identifiability guarantees [[OpenReview](https://openreview.net/forum?id=U2g8OGONA_V)] [No code]
   
-* Diffusion-based Image Translation using disentangled style and content representation [[OpenReview](https://openreview.net/forum?id=Nayau9fwXU)]
+* Diffusion-based Image Translation using disentangled style and content representation [[OpenReview](https://openreview.net/forum?id=Nayau9fwXU)] [[PyTorch](https://github.com/cyclomon/DiffuseIT)]
   
-* Dual Diffusion Implicit Bridges for Image-to-Image Translation [[OpenReview](https://openreview.net/forum?id=Nayau9fwXU)]
+* Dual Diffusion Implicit Bridges for Image-to-Image Translation [[OpenReview](https://openreview.net/forum?id=Nayau9fwXU)] [[PyTorch](https://github.com/suxuann/ddib)]
 
 ## AAAI 2023
-* MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation [[pdf](https://arxiv.org/abs/2209.11047)] [[code pending](https://github.com/KU-CVLAB/MIDMs)]
+* MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation [[pdf](https://arxiv.org/abs/2209.11047)] [[PyTorch](https://github.com/KU-CVLAB/MIDMs)]
   * a diffusion-based matching-and-generation framework that interleaves cross-domain matching and diffusion in the latent space for I2I
 
 ## NeurIPS 2022
 * EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations [[pdf](https://arxiv.org/abs/2207.06635)] [[code](https://github.com/ML-GSAI/EGSDE)]
   * an energy-guided stochastic differential equations that utilizes an energy function pretrained on source and target domains to guide the SDE inference for unpaired I2I
 
-* Unsupervised Image-to-Image Translation with Density Changing Regularization [[pdf](https://arxiv.org/abs/2204.03641)] [[code](https://github.com/Mid-Push/Decent)]
+* **Unsupervised Image-to-Image Translation with Density Changing Regularization** [[pdf](https://arxiv.org/abs/2204.03641)] [[code](https://github.com/Mid-Push/Decent)]
   * an unsupervised I2I model based on a density changing assumption that we should match image patches of high probability density for different domains. 
 
 ## ECCV 2022
