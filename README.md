@@ -7,7 +7,7 @@ This is an repository that contains the resources for image-to-image translation
 ## WACV 2023
 * Panoptic-aware Image-to-Image Translation [[pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_Panoptic-Aware_Image-to-Image_Translation_WACV_2023_paper.pdf)]
 
-* UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation [[pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Torbunov_UVCGAN_UNet_Vision_Transformer_Cycle-Consistent_GAN_for_Unpaired_Image-to-Image_Translation_WACV_2023_paper.pdf)]
+* UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation [[pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Torbunov_UVCGAN_UNet_Vision_Transformer_Cycle-Consistent_GAN_for_Unpaired_Image-to-Image_Translation_WACV_2023_paper.pdf)] [[PyTorch](https://github.com/ls4gan/uvcgan)]
 
 
 ## ICLR 2023 (Under Review)
