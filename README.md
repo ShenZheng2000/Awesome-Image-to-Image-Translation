@@ -38,7 +38,7 @@ This is an repository that contains the resources for image-to-image translation
 * Vector Quantized Image-to-Image Translation [[pdf](https://arxiv.org/abs/2207.13286)] [[code](https://github.com/cyj407/VQ-I2I)]
   * A I2I framework based on vector quantized content representation 
 
-* Unpaired Image Translation via Vector Symbolic Architectures [[pdf](https://arxiv.org/abs/2209.02686)] [[code](https://github.com/facebookresearch/vsait)]
+* **Unpaired Image Translation via Vector Symbolic Architectures** [[pdf](https://arxiv.org/abs/2209.02686)] [[code](https://github.com/facebookresearch/vsait)]
   * a I2I framework based on Vector Symbolic Architectures which defines algebraic operations in a hypervector space. 
 
 * VecGAN: Image-to-Image Translation with Interpretable Latent Directions [[pdf](https://arxiv.org/abs/2207.03411)] [**NO CODE**]
