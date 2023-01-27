@@ -63,7 +63,7 @@ This is an repository that contains the resources for image-to-image translation
 * **InstaFormer: Instance-Aware Image-to-Image Translation With Transformer** [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_InstaFormer_Instance-Aware_Image-to-Image_Translation_With_Transformer_CVPR_2022_paper.html)] [[code](https://github.com/KU-CVLAB/InstaFormer)]
   * a transformer-based architecture with with adaptive instance normalization for instance-aware I2I. 
 
-* Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Maximum_Spatial_Perturbation_Consistency_for_Unpaired_Image-to-Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/batmanlab/mspc)]
+* **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation** [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Maximum_Spatial_Perturbation_Consistency_for_Unpaired_Image-to-Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/batmanlab/mspc)]
   * a universal regularization technique for I2I called maximum spatial perturbation consistency which enforces the spatial perturbation function and translation operator to be commutative.
 
 * FlexIT: Towards Flexible Semantic Image Translation [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Couairon_FlexIT_Towards_Flexible_Semantic_Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/facebookresearch/semanticimagetranslation)]
