@@ -25,7 +25,7 @@ This is an repository that contains the resources for image-to-image translation
 * EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations [[pdf](https://arxiv.org/abs/2207.06635)] [[code](https://github.com/ML-GSAI/EGSDE)]
   * an energy-guided stochastic differential equations that utilizes an energy function pretrained on source and target domains to guide the SDE inference for unpaired I2I
 
-* **Unsupervised Image-to-Image Translation with Density Changing Regularization** [[pdf](https://arxiv.org/abs/2204.03641)] [[code](https://github.com/Mid-Push/Decent)]
+* **Unsupervised Image-to-Image Translation with Density Changing Regularization** [[pdf](https://openreview.net/pdf?id=RNZ8JOmNaV4)] [[code](https://github.com/Mid-Push/Decent)]
   * an unsupervised I2I model based on a density changing assumption that we should match image patches of high probability density for different domains. 
 
 ## ECCV 2022
@@ -51,7 +51,7 @@ This is an repository that contains the resources for image-to-image translation
 * Exploring Patch-Wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Jung_Exploring_Patch-Wise_Semantic_Relation_for_Contrastive_Learning_in_Image-to-Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/jcy132/Hneg_SRC)]
   * a I2I framework based on semantic relation consistency and regularization along with the decoupled contrastive learning
 
-* Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.html)] [[code](https://github.com/cr-gjx/scc)]
+* **Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint** [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.html)] [[code](https://github.com/cr-gjx/scc)]
   * a Structure Consistency Constraint that reduces the randomness of color transformation in I2I.
 
 * A Style-Aware Discriminator for Controllable Image Translation [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_A_Style-Aware_Discriminator_for_Controllable_Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/kunheek/style-aware-discriminator)]
