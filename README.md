@@ -22,7 +22,7 @@ This is an repository that contains the resources for image-to-image translation
   * a diffusion-based matching-and-generation framework that interleaves cross-domain matching and diffusion in the latent space for I2I
 
 ## NeurIPS 2022
-* EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations [[pdf](https://arxiv.org/abs/2207.06635)] [[code](https://github.com/ML-GSAI/EGSDE)]
+* **EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations** [[pdf](https://arxiv.org/abs/2207.06635)] [[code](https://github.com/ML-GSAI/EGSDE)]
   * an energy-guided stochastic differential equations that utilizes an energy function pretrained on source and target domains to guide the SDE inference for unpaired I2I
 
 * **Unsupervised Image-to-Image Translation with Density Changing Regularization** [[pdf](https://openreview.net/pdf?id=RNZ8JOmNaV4)] [[code](https://github.com/Mid-Push/Decent)]
