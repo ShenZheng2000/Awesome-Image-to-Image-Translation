@@ -7,7 +7,7 @@ This is an repository that contains the resources for image-to-image translation
 ## WACV 2023
 * Panoptic-aware Image-to-Image Translation [[pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_Panoptic-Aware_Image-to-Image_Translation_WACV_2023_paper.pdf)]
 
-* **UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation** [[pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Torbunov_UVCGAN_UNet_Vision_Transformer_Cycle-Consistent_GAN_for_Unpaired_Image-to-Image_Translation_WACV_2023_paper.pdf)] [[PyTorch](https://github.com/ls4gan/uvcgan)]
+* UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation [[pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Torbunov_UVCGAN_UNet_Vision_Transformer_Cycle-Consistent_GAN_for_Unpaired_Image-to-Image_Translation_WACV_2023_paper.pdf)] [[PyTorch](https://github.com/ls4gan/uvcgan)]
 
 
 ## ICLR 2023 
@@ -51,7 +51,7 @@ This is an repository that contains the resources for image-to-image translation
 * Exploring Patch-Wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Jung_Exploring_Patch-Wise_Semantic_Relation_for_Contrastive_Learning_in_Image-to-Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/jcy132/Hneg_SRC)]
   * a I2I framework based on semantic relation consistency and regularization along with the decoupled contrastive learning
 
-* **Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint** [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.html)] [[code](https://github.com/cr-gjx/scc)]
+* Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.html)] [[code](https://github.com/cr-gjx/scc)]
   * a Structure Consistency Constraint that reduces the randomness of color transformation in I2I.
 
 * A Style-Aware Discriminator for Controllable Image Translation [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_A_Style-Aware_Discriminator_for_Controllable_Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/kunheek/style-aware-discriminator)]
@@ -60,10 +60,10 @@ This is an repository that contains the resources for image-to-image translation
 * Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Wavelet_Knowledge_Distillation_Towards_Efficient_Image-to-Image_Translation_CVPR_2022_paper.html)] [**NO CODE**]
   * a I2I method based on high frequency bands distillation from discrete wavelet transformation.
 
-* **InstaFormer: Instance-Aware Image-to-Image Translation With Transformer** [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_InstaFormer_Instance-Aware_Image-to-Image_Translation_With_Transformer_CVPR_2022_paper.html)] [[code](https://github.com/KU-CVLAB/InstaFormer)]
+* InstaFormer: Instance-Aware Image-to-Image Translation With Transformer [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_InstaFormer_Instance-Aware_Image-to-Image_Translation_With_Transformer_CVPR_2022_paper.html)] [[code](https://github.com/KU-CVLAB/InstaFormer)]
   * a transformer-based architecture with with adaptive instance normalization for instance-aware I2I. 
 
-* **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation** [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Maximum_Spatial_Perturbation_Consistency_for_Unpaired_Image-to-Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/batmanlab/mspc)]
+* Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Maximum_Spatial_Perturbation_Consistency_for_Unpaired_Image-to-Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/batmanlab/mspc)]
   * a universal regularization technique for I2I called maximum spatial perturbation consistency which enforces the spatial perturbation function and translation operator to be commutative.
 
 * FlexIT: Towards Flexible Semantic Image Translation [[pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Couairon_FlexIT_Towards_Flexible_Semantic_Image_Translation_CVPR_2022_paper.html)] [[code](https://github.com/facebookresearch/semanticimagetranslation)]
