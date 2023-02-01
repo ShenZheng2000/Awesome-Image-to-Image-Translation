@@ -15,7 +15,7 @@ This is an repository that contains the resources for image-to-image translation
   
 * Diffusion-based Image Translation using disentangled style and content representation [[OpenReview](https://openreview.net/forum?id=Nayau9fwXU)] [[PyTorch](https://github.com/cyclomon/DiffuseIT)]
   
-* Dual Diffusion Implicit Bridges for Image-to-Image Translation [[OpenReview](https://openreview.net/forum?id=Nayau9fwXU)] [[PyTorch](https://github.com/suxuann/ddib)]
+* Dual Diffusion Implicit Bridges for Image-to-Image Translation [[OpenReview](https://openreview.net/forum?id=5HLoTvVGDe)] [[PyTorch](https://github.com/suxuann/ddib)]
 
 ## AAAI 2023
 * MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation [[pdf](https://arxiv.org/abs/2209.11047)] [[PyTorch](https://github.com/KU-CVLAB/MIDMs)]
